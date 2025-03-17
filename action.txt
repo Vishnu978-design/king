@@ -2,3 +2,4 @@ One
 Two
 Three
 commit A changes
+commit B changes
